@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "driver": "mysql",
+        "user": "park1648",
+        "password": "aa1120721!!",
+        "host": "park1648.cafe24app.com",
+        "database": "park1648",
+        "port": 3306
+    }
+}

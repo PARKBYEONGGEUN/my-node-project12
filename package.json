@@ -1,0 +1,28 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "main": "web.js",
+  "scripts": {
+    "start": "node ./web.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "db-migrate-mysql": "^3.0.0",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.3",
+    "redis": "^4.6.15",
+    "ws": "^8.17.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
